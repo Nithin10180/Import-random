@@ -1,8 +1,8 @@
 import random as a
-li1=["Once there was a lion"]
-li2=["The king was strongest animal in the jungle "]
-li3=["Tiger was hungry these days"]
-li4=["the iphone 14 is new launches in september 2022"]
-li5=["parasuite oil is very good for health"]
-li6=["i have oppo A12 phone which lag'es while playing games"]
-print(a.choice(li1),a.choice(li2),a.choice(li3),a.choice(li4),a.choice(li5),a.choice(li6))
+l1=["Once there was a lion"]
+l2=["The king was strongest animal in the jungle "]
+l3=["Tiger was hungry these days"]
+l4=["the iphone 14 is new launches in september 2022"]
+l5=["parasuite oil is very good for health"]
+l6=["i have oppo A12 phone which lag'es while playing games"]
+print(a.choice(l1),a.choice(l2),a.choice(l3),a.choice(l4),a.choice(l5),a.choice(l6))
